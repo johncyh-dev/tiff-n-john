@@ -99,24 +99,6 @@ const Reminder = styled.div<{ font?: string, size?: string }>`
     color: #FFFFFF;
 `;
 
-const ActionButtonWrapper = styled.div`
-    display: flex;
-    width: 100%;
-    height: 30vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-`;
-
-const ActionButtonLabel = styled.div`
-    font-size: 2em;
-    font-color: #000000;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: #555555;
-`;
-
 const MainImage = styled.div`
     height: 100%;
     background-position: center;
